@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS todo;
+GRANT ALL ON todo.* TO listmngt@localhost IDENTIFIED BY '88_3oBA1#1^';
+GRANT ALL ON todo.* TO listmngt@'127.0.0.1' IDENTIFIED BY '88_3oBA1#1^';

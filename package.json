@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "0.0.1",
+  "description": "The best looking and functioning ToDo List on reddit!",
+  "main": "gulpfile.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/englebt/project-1"
+  },
+  "private": true
+}

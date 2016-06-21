@@ -1,0 +1,8 @@
+{
+  "name": "todo-list",
+  "description": "The best looking and functioning ToDo List on reddit!",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  }
+}

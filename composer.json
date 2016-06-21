@@ -1,0 +1,17 @@
+{
+  "name": "todo-list",
+  "require": {
+      "php": ">=5.5.0",
+      "slim/slim": "~2.0",
+      "slim/views": "~0.1",
+      "twig/twig": "1.*",
+      "robmorgan/phinx": "~0.4",
+      "monolog/monolog": "~1.7"
+  },
+
+  "autoload": {
+      "psr-4": {
+        "ToDo\\": "src/todo-list"
+      }
+  }
+}
